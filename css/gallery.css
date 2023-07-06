@@ -1,0 +1,38 @@
+/* CSS for Image Gallery */
+h1 {
+    text-align: center;
+  }
+  
+  #gallery {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  figure {
+    text-align: center;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  li {
+    display: inline-block;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  figcaption {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
